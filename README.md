@@ -19,10 +19,11 @@ A project on predicting whether it will rain tomorrow or not by using the Rainfa
 
 
 ## Code Snippet
-**Data description**
+
+
 ![App Screenshot](https://i.ibb.co/s6JFHCb/Screenshot-2024-05-30-174057.png)
 
-**Model Visualization**
+
 ![App Screenshot](https://i.ibb.co/m84MKmw/Screenshot-2024-05-30-180014.png)
 
 
@@ -37,11 +38,11 @@ The decision tree goes upto 48 levels of depth.
 
 ## Dashboard
 
-**Page 1**
+
 ![App Screenshot](<https://i.ibb.co/4pvCs7M/Screenshot-2024-05-30-171334.png)
 
-**Page 2**
+
 ![App Screenshot](https://i.ibb.co/1dwKKyZ/Screenshot-2024-05-30-180931.png)
 
-**Page 3**
+
 ![App Screenshot](https://i.ibb.co/94wtLTK/Screenshot-2024-05-30-180944.png)
