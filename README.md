@@ -36,7 +36,7 @@ The decision tree goes upto 48 levels of depth.
 ## Dashboard
 
 **Page 1**
-![App Screenshot](<https://i.ibb.co/4pvCs7M/Screenshot-2024-05-30-171334.png)
+![App Screenshot](https://i.ibb.co/4pvCs7M/Screenshot-2024-05-30-171334.png)
 
 **Page 2**
 ![App Screenshot](https://i.ibb.co/1dwKKyZ/Screenshot-2024-05-30-180931.png)
