@@ -16,11 +16,13 @@ A project on predicting whether it will rain tomorrow or not by using the Rainfa
 
 ## Dataset Source
 [Rainfall Prediction in Australia dataset](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) from Kaggle.
+
+
 ## Code Snippet
-- Data description
+**Data description**
 ![App Screenshot](https://i.ibb.co/s6JFHCb/Screenshot-2024-05-30-174057.png)
 
-- Model Visualization
+**Model Visualization**
 ![App Screenshot](https://i.ibb.co/m84MKmw/Screenshot-2024-05-30-180014.png)
 
 ![App Screenshot](https://i.ibb.co/dmptqsP/Screenshot-2024-05-30-180353.png)
@@ -33,11 +35,11 @@ The decision tree goes upto 48 levels of depth.
 
 ## Dashboard
 
-- Page 1
-![App Screenshot](https://i.ibb.co/xh62mN1/Screenshot-2024-05-30-171334.png)
+**Page 1**
+![App Screenshot](<https://i.ibb.co/4pvCs7M/Screenshot-2024-05-30-171334.png)
 
-- Page 2
+**Page 2**
 ![App Screenshot](https://i.ibb.co/1dwKKyZ/Screenshot-2024-05-30-180931.png)
 
-- Page 3
+**Page 3**
 ![App Screenshot](https://i.ibb.co/94wtLTK/Screenshot-2024-05-30-180944.png)
